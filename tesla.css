@@ -1,0 +1,315 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+   
+    
+}
+.header{
+    background-image: url("img/ModelY.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+   
+}
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    padding: 17px;
+    cursor: pointer;
+}
+nav ul{
+    flex: 1;
+    text-align: center;
+    
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #252525;
+}
+.click{
+    color: black;
+    text-decoration: none;
+    margin-right: 17px;
+    padding: 10px;
+}
+.content{
+    position: absolute;
+    top: 15%;
+    left: 42%;
+    text-align: center;
+}
+.content h1{
+    font-size: 35px;
+}
+.order{
+    position: absolute;
+    bottom: 19%;
+    left: 28%;
+}
+.order .button{
+     padding: 10px 80px;
+     text-decoration: none;
+     color: #fff;
+     background-color: #252525;
+     border-radius: 5px;
+     margin: 18px;
+}
+.order .button2{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #252525;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.section{
+    background-image: url("img/Model3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+    
+}
+.content2{
+    position: absolute;
+    top: 5%;
+    left: 42%;
+    text-align: center;
+}
+.content2 h1{
+    font-size: 35px;
+}
+.order2{
+    position: absolute;
+    bottom: 19%;
+    left: 28%;
+}
+.order2 .btn1{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #252525;
+    border-radius: 5px;
+    margin: 18px;
+}
+.order2 .btn2{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #252525;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.section-2{
+    background-image: url("img/model\ S.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+}
+.content3{
+    position: absolute;
+    top: 5%;
+    left: 42%;
+    text-align: center;
+}
+.content3 h1{
+    font-size: 35px;
+}
+.order3{
+    position: absolute;
+    bottom: 19%;
+    left: 28%;
+}
+.order3 .btn3{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #252525;
+    border-radius: 5px;
+    margin: 18px;
+}
+.order3 .btn4{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #252525;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.section-3{
+    background-image: url("img/model\ X.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+}
+.content4{
+    position: absolute;
+    top: 5%;
+    left: 42%;
+    text-align: center;
+}
+.content4 h1{
+    font-size: 35px;
+}
+.order4{
+    position: absolute;
+    bottom: 19%;
+    left: 28%;
+}
+.order4 .btn5{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #252525;
+    border-radius: 5px;
+    margin: 18px;
+}
+.order4 .btn6{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #252525;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.section-4{
+    background-image: url("img/SolarPanels.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+}
+.content5{
+    position: absolute;
+    top: 5%;
+    left: 42%;
+    text-align: center;
+}
+.content5 h1{
+    font-size: 35px;
+}
+.order5{
+    position: absolute;
+    bottom: 19%;
+    left: 28%;
+}
+.order5 .btn7{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #252525;
+    border-radius: 5px;
+    margin: 18px;
+}
+.order5 .btn8{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #252525;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.section-5{
+    background-image: url("img/SolarRoof.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+}
+.content6{
+    position: absolute;
+    top: 5%;
+    left: 42%;
+    text-align: center;
+}
+.content6 h1{
+    font-size: 35px;
+}
+.order6{
+    position: absolute;
+    bottom: 19%;
+    left: 28%;
+}
+.order6 .btn9{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #252525;
+    border-radius: 5px;
+    margin: 18px;
+}
+.order6 .btn10{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #252525;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.section-6{
+    background-image: url("img/charger.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+}
+.content7{
+    position: absolute;
+    top: 17%;
+    left: 44%;
+    text-align: center;
+}
+.content7 h1{
+    font-size: 35px;
+}
+.order7{
+    position: absolute;
+    bottom: 19%;
+    left: 40%;
+}
+.order7 .btn11{
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #252525;
+    border-radius: 5px;
+    margin: 18px;
+}
+footer{
+   
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+footer ul{
+    flex: 1;
+    text-align: center;
+    
+}
+footer ul li{
+    display: inline-block;
+    margin: 10px 20px;
+}
+footer ul li a{
+    text-decoration: none;
+    color: #252525;
+    font-size: 12px;
+}
+
+
+
