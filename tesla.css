@@ -6,7 +6,7 @@ body{
     
 }
 .header{
-    background-image: url("img/ModelY.jpg");
+    background-image: url("ModelY.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -75,7 +75,7 @@ nav ul li a{
     border-radius: 5px;
 }
 .section{
-    background-image: url("img/Model3.jpg");
+    background-image: url("Model3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -113,7 +113,7 @@ nav ul li a{
     border-radius: 5px;
 }
 .section-2{
-    background-image: url("img/model\ S.jpg");
+    background-image: url("model\ S.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -150,7 +150,7 @@ nav ul li a{
     border-radius: 5px;
 }
 .section-3{
-    background-image: url("img/model\ X.jpg");
+    background-image: url("model\ X.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -187,7 +187,7 @@ nav ul li a{
     border-radius: 5px;
 }
 .section-4{
-    background-image: url("img/SolarPanels.jpg");
+    background-image: url("SolarPanels.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -224,7 +224,7 @@ nav ul li a{
     border-radius: 5px;
 }
 .section-5{
-    background-image: url("img/SolarRoof.webp");
+    background-image: url("SolarRoof.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -261,7 +261,7 @@ nav ul li a{
     border-radius: 5px;
 }
 .section-6{
-    background-image: url("img/charger.jpg");
+    background-image: url("charger.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
